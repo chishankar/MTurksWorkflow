@@ -1,7 +1,7 @@
 # MTurks Workflow
 This python project utilizes the ```Amazon Mechanical Turks Boto API``` to make an auto-granting qualification request workflow based on an ```answer_key``` in ```XML``` format.
 
-It is used to differentiate workers between HITS. It follows the workflow model below:
+It is used to differentiate workers between HITS (Human Intelligence Tasks). It follows the workflow model below:
 
 ![Alt text](https://user-images.githubusercontent.com/25187819/28787507-73559f12-75ea-11e7-8bef-0b8078718174.png "WorkFlow")
 
