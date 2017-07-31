@@ -6,3 +6,4 @@ https://github.com/cloudyr/MTurkR/wiki/Qualification-Tests-for-Worker-Pre-Screen
 https://github.com/cloudyr/MTurkR/wiki/Qualification-Requests
 http://www.toforge.com/2011/04/boto-mturk-tutorial-create-hits/
 https://www.quora.com/Amazon-Mechanical-Turk-Why-is-my-qualification-request-pending
+https://stackoverflow.com/questions/34803467/unexpected-exception-name-basestring-is-not-defined-when-invoking-ansible2
