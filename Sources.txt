@@ -1,0 +1,8 @@
+Links that I used to create this workflow:
+
+http://boto.cloudhackers.com/en/latest/ref/mturk.html#module-boto.mturk.connection
+http://docs.aws.amazon.com/AWSMechTurk/latest/AWSMturkAPI/ApiReference_CreateHITOperation.html
+https://github.com/cloudyr/MTurkR/wiki/Qualification-Tests-for-Worker-Pre-Screening
+https://github.com/cloudyr/MTurkR/wiki/Qualification-Requests
+http://www.toforge.com/2011/04/boto-mturk-tutorial-create-hits/
+https://www.quora.com/Amazon-Mechanical-Turk-Why-is-my-qualification-request-pending
