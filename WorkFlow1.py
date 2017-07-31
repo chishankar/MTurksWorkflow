@@ -7,8 +7,8 @@ import better_exceptions
 
 
 # Security Credentials
-AWS_ACCESS_KEY_ID = ''
-AWS_SECRET_ACCESS_KEY = ''
+AWS_ACCESS_KEY_ID = 'ACCESS KEY ID HERE'
+AWS_SECRET_ACCESS_KEY = 'SECRET ACCESS KEY HERE'
 
 HOST = 'mechanicalturk.sandbox.amazonaws.com'
 
