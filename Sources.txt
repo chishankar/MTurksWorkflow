@@ -12,8 +12,8 @@ Initial set-up and connection testing:
 http://www.toforge.com/2011/04/boto-mturk-tutorial-create-hits/
 
 Solutions:
-Problem 1. Difference between answer_key vs. answer_key_xml
-https://www.quora.com/Amazon-Mechanical-Turk-Why-is-my-qualification-request-pending
+  Problem 1. Difference between answer_key vs. answer_key_xml
+    https://www.quora.com/Amazon-Mechanical-Turk-Why-is-my-qualification-request-pending
 
-Problem 2. 'basestring' not defined error
-https://stackoverflow.com/questions/34803467/unexpected-exception-name-basestring-is-not-defined-when-invoking-ansible2
+  Problem 2. 'basestring' not defined error
+    https://stackoverflow.com/questions/34803467/unexpected-exception-name-basestring-is-not-defined-when-invoking-ansible2
