@@ -15,6 +15,7 @@ HOST = 'mechanicalturk.sandbox.amazonaws.com'
 # Making the connection
 mtc = MTurkConnection(aws_access_key_id=AWS_ACCESS_KEY_ID, aws_secret_access_key=AWS_SECRET_ACCESS_KEY, host=HOST, debug=1)
 
+
 questions = []
 answers = []
 
@@ -40,6 +41,7 @@ questions.append(Question(
     answer_spec=questionAnswer,
     is_required=True,
 ))
+# Answer to question 1
 answers.append("""
     <Question>
         <QuestionIdentifier>q1</QuestionIdentifier>
@@ -79,6 +81,7 @@ questions.append(Question(
     answer_spec=questionAnswer,
     is_required=True,
 ))
+# Answer to question 2
 answers.append("""\
     <Question>
         <QuestionIdentifier>q2</QuestionIdentifier>
@@ -102,7 +105,6 @@ for q in questions:
     testForm.append(q)
 
 # Make the answer key XML
-
 AnswerKey = '<AnswerKey xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/AnswerKey.xsd">'
 AnswerKey += ''.join(answers)
 AnswerKey += """
@@ -116,6 +118,7 @@ AnswerKey += """
 
 description = 'My HITS require to complete this qualification test'
 
+# To see the XML text of AnswerKey
 print(AnswerKey);
 
 response = mtc.create_qualification_type(name='ProjectTest1',
