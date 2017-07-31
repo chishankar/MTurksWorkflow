@@ -3,7 +3,7 @@ This python project utilizes the ```Amazon Mechanical Turks Boto API``` to make 
 
 It is used to differentiate workers between HITS. It follows the workflow model below:
 
-![Alt text](https://user-images.githubusercontent.com/3580069/28320555-e381a4d0-6b9e-11e7-8161-a2ec401de5bb.png "WorkFlow")
+![Alt text](https://user-images.githubusercontent.com/25187819/28787507-73559f12-75ea-11e7-8bef-0b8078718174.png "WorkFlow")
 
 
 # Boto Install
