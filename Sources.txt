@@ -17,3 +17,7 @@ Solutions:
 
   Problem 2. 'basestring' not defined error
     https://stackoverflow.com/questions/34803467/unexpected-exception-name-basestring-is-not-defined-when-invoking-ansible2
+
+Research:
+  https://stackoverflow.com/questions/2835915/in-mechanical-turk-how-do-you-limit-to-one-hit-per-worker
+  
