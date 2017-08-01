@@ -9,7 +9,7 @@ My initial goal was to be able to have 1 ```Batch``` with 2 ```HITs``` (Human In
  2. It is not possible using ```AWS``` (Amazon Web Services) via the ```Boto API``` to restrict the user from accepting the next HIT in
     the batch.
 
-The model is thus reduce to:
+The model is thus reduced to:
 
 ![Alt text](https://user-images.githubusercontent.com/25187819/28838988-27a86398-76c0-11e7-96d5-dbcccb523639.png "WorkFlow")
 
