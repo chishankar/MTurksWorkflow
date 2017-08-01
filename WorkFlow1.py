@@ -124,7 +124,7 @@ print(AnswerKey);
 response = mtc.create_qualification_type(name='ProjectTest1',
                               description=description,
                               status='Active',
-                              keywords=['memes', 'fun'],
+                              keywords=['test', 'Qualification', 'workflow],
                               test=testForm,
                               answer_key= AnswerKey,
                               test_duration=3600);
