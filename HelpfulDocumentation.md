@@ -13,4 +13,7 @@ To create multiple ```HITS``` per ```Batch``` via GUI on MTurks follow the instr
       CSV:
       
       ![Alt text](https://user-images.githubusercontent.com/25187819/28840297-882e43d2-76c4-11e7-870a-3ccc63bf5d84.png "WorkFlow")
+      
+      
+  2. Next when you are creating your HIT, you can call the different columns in the ```Excel or CSV``` file by doing:               ```${COLUMN_TITLE}``` . The Batch will create X number of ```HITs``` based on the number of rows you have supplied in the ```CSV``` file. That part is taken care of by ```AWS```.
 
