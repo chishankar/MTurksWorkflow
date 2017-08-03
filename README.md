@@ -5,7 +5,7 @@ It is used to differentiate workers between HITS (Human Intelligence Tasks). It 
 
 ![Alt text](https://user-images.githubusercontent.com/25187819/28787507-73559f12-75ea-11e7-8bef-0b8078718174.png "WorkFlow")
 
-Further details about future development and research can be found [here](https://github.com/chishankar/MTurksWorkflow/blob/master/Research.md)
+Further details about future development and research can be found [here](https://github.com/chishankar/MTurksWorkflow/blob/master/Research.md).
 
 # Boto Install
 To install use: ```pip install boto```
