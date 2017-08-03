@@ -16,7 +16,7 @@ The model is thus reduced to:
 Where ```Qualificiation A``` grants the user access to completing 2 ```HITS``` within the same ```batch```. Further research shows, that limiting the user to one ```HIT``` in the same ```batch``` can be handled by the backend server in multiple different ways.
   1. The server can use a ```JavaScript``` function to request the ```USER_ID's``` of those who have completed the random first hit and
       dynamically change the link on the following ```HIT``` to NULL or to a message: "You have already completed a HIT in this batch"
-  2. You can have one ```Qualification Test``` for single ```HIT``` and dyanmically change what the link redirects you too on the backend.
+  2. You can have one ```Qualification Test``` for a single ```HIT``` and dyanmically change what the link redirects you too on the backend.
   
  
  
