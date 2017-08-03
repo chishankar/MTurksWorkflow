@@ -1,6 +1,6 @@
 # Research of MTurk Workflow Boto API
 
-My initial goal was to be able to have 1 ```Batch``` with 2 ```HITs``` (Human Integrated Tasks) each with seperate qualifications so that a single user can do one HIT but not the other in a work flow modeled below:
+My initial goal was to be able to have 1 ```Batch``` with 2 ```HITs``` (Human Integrated Tasks) each with seperate qualifications so that a single user can do one HIT but not the other task as shown in a work flow modeled below:
 
 ![Alt text](https://user-images.githubusercontent.com/25187819/28838989-27ab04d6-76c0-11e7-8961-66174a143e54.png "WorkFlow")
 
